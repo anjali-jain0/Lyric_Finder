@@ -1,3 +1,6 @@
+# Lyric_Finder
+Find that song that's stuck in your head when you only know a few of the lyrics.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
